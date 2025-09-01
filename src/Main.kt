@@ -4,11 +4,11 @@ fun main() {
 
     // 2. Crea una lista de al menos 5 empleados
     val empleados = listOf(
-        Empleado("Ana", 28, 45000.0, "IT"),
-        Empleado("Carlos", 35, 52000.0, "Ventas"),
-        Empleado("María", 31, 48000.0, "IT"),
-        Empleado("Juan", 25, 38000.0, "Marketing"),
-        Empleado("Laura", 42, 65000.0, "Ventas")
+        Empleado("Juan David", 28, 45000.0, "IT"),
+        Empleado("Berenice", 35, 52000.0, "Ventas"),
+        Empleado("Amanda", 31, 48000.0, "IT"),
+        Empleado("Luis Fernando", 25, 38000.0, "Marketing"),
+        Empleado("Julian", 42, 65000.0, "Ventas")
     )
 
     println("Lista de empleados:")
