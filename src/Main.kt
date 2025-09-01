@@ -8,7 +8,7 @@ fun main() {
         Empleado("Berenice", 35, 52000.0, "Ventas"),
         Empleado("Amanda", 31, 48000.0, "IT"),
         Empleado("Luis Fernando", 25, 38000.0, "Marketing"),
-        Empleado("Julian", 42, 65000.0, "Ventas")
+        Empleado("Julian", 42, 65000.0, "Ventas"),
         Empleado("Sofía", 29, 47000.0, "IT"),
         Empleado("Carlos", 38, 54000.0, "Marketing"),
         Empleado("Ana María", 33, 49000.0, "Ventas"),
