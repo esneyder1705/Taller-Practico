@@ -9,6 +9,16 @@ fun main() {
         Empleado("Amanda", 31, 48000.0, "IT"),
         Empleado("Luis Fernando", 25, 38000.0, "Marketing"),
         Empleado("Julian", 42, 65000.0, "Ventas")
+        Empleado("Sofía", 29, 47000.0, "IT"),
+        Empleado("Carlos", 38, 54000.0, "Marketing"),
+        Empleado("Ana María", 33, 49000.0, "Ventas"),
+        Empleado("Diego", 27, 42000.0, "Marketing"),
+        Empleado("Valeria", 30, 46000.0, "IT"),
+        Empleado("Ricardo", 45, 68000.0, "Ventas"),
+        Empleado("Gabriela", 26, 40000.0, "Marketing"),
+        Empleado("Fernando", 34, 51000.0, "Ventas"),
+        Empleado("Mariana", 28, 45000.0, "IT"),
+        Empleado("Andrés", 39, 56000.0, "Marketing")
     )
 
     println("Lista de empleados:")
